@@ -1,9 +1,9 @@
-# FileReader
+﻿# FileReader
  What is File Reader
 ________________________________________
 File Reader is Windows version for reading the files provided with multiple search options - a powerful tool which allows the reader to read specific data of  multiple files. 
 File Reader features 
-•	Supports all types of documents except pdf documents
+•	Supports all types of documents except .txt,.java,.html documents
 •	Highly sophisticated, original compression algorithm; 
 •	Special algorithms optimized for different text documents, 32-bit and 64-bit Intel executables compression. 
 •	ther service functions, such as error logging, etc. 
